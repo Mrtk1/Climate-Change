@@ -7,3 +7,10 @@
 # Karbon Ayak İzi Takip ve Azaltma Uygulaması 
 
 > Biraz iyi bir fikir. Bu yüzden bunu yapacağım.
+
+
+# Kullandığım Kütüphaneler
+
+> Python
+ 
+> Flask
